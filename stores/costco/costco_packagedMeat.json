@@ -1,0 +1,431 @@
+{
+"product_list":[
+{
+"name":"Kirkland Signature Organic Ground Beef",
+"price":"$24.39"
+},
+{
+"name":"Kirkland Signature Grilled Chicken Strips",
+"price":"$12.19",
+"quantity":"2 x 16 oz"
+},
+{
+"name":"Kirkland Signature Sliced Ham",
+"price":"$11.99",
+"quantity":"2 x 24 oz"
+},
+{
+"name":"88% Lean Ground Beef",
+"price":"$25.06",
+"quantity":"At $4.19/lb"
+},
+{
+"name":"Plainville Farms Organic Ground Turkey",
+"price":"$18.29",
+"quantity":"16 oz"
+},
+{
+"name":"Lamb Loin Chops Imported From Australia",
+"price":"$25.43",
+"quantity":"At $8.59/lb"
+},
+{
+"name":"Beef Stew Meat",
+"price":"$25.42",
+"quantity":"At $5.49/lb"
+},
+{
+"name":"Beef Flank Steak",
+"price":"$36.58",
+"quantity":"At $9.19/lb"
+},
+{
+"name":"Boneless Pork Tenderloin",
+"price":"$22.62",
+"quantity":"At $4.09/lb"
+},
+{
+"name":"USDA Choice Boneless Beef Ribeye Steak",
+"price":"$42.42",
+"quantity":"At $12.19/lb"
+},
+{
+"name":"Beef Loin New York Steak",
+"price":"$22.61",
+"quantity":"At $7.39/lb"
+},
+{
+"name":"Beef Filet Mignon Tenderloin",
+"price":"$42.90",
+"quantity":"At $17.09/lb"
+},
+{
+"name":"Beef Boneless Chuck Short Ribs",
+"price":"$38.13",
+"quantity":"At $11.59/lb"
+},
+{
+"name":"Boneless Country Style Pork Shoulder Ribs",
+"price":"$22.71",
+"quantity":"At $3.09/lb"
+},
+{
+"name":"Pork Loin Baby Back Ribs",
+"price":"$22.77",
+"quantity":"At $3.69/lb"
+},
+{
+"name":"Evergood Fine Foods Hot Link Sausage",
+"price":"$13.49",
+"quantity":"3 lb"
+},
+{
+"name":"Kirkland Signature Boneless Pork Loin",
+"price":"$25.68",
+"quantity":"At $3.19/lb"
+},
+{
+"name":"Beef Loin Tri Tip Steak",
+"price":"$17.84",
+"quantity":"At $6.09/lb"
+},
+{
+"name":"Boneless Top Loin Pork Chops",
+"price":"$15.41",
+"quantity":"At $3.19/lb"
+},
+{
+"name":"Beef Top Beef Sirloin",
+"price":"$24.77",
+"quantity":"At $9.79/lb"
+},
+{
+"name":"Boneless Beef Chuck Pot Roast, USDA Choice",
+"price":"$34.92",
+"quantity":"At $6.49/lb"
+},
+{
+"name":"Rib Pork Loin Chops",
+"price":"$15.22",
+"quantity":"At $2.99/lb"
+},
+{
+"name":"Kirkland Signature Pork Sirloin Tip Roast",
+"price":"$21.56",
+"quantity":"At $2.49/lb"
+},
+{
+"name":"Pork Loin Chops",
+"price":"$16.62",
+"quantity":"At $3.09/lb"
+},
+{
+"name":"Beef Loin Tri Tip Roast",
+"price":"$28.14",
+"quantity":"At $6.09/lb"
+},
+{
+"name":"Pork Back Ribs",
+"price":"$29.00",
+"quantity":"At $3.69/lb"
+},
+{
+"name":"Eye Round Beef Roast, USDA Choice",
+"price":"$27.04",
+"quantity":"At $5.79/lb"
+},
+{
+"name":"USDA Choice Beef Brisket Flat",
+"price":"$44.49",
+"quantity":"At $5.29/lb"
+},
+{
+"name":"Kirkland Signature USDA Prime Beef Tenderloin",
+"price":"$69.56",
+"quantity":"At $17.39/lb"
+},
+{
+"name":"Beef Tenderloin Steak",
+"price":"$49.05",
+"quantity":"At $17.09/lb"
+},
+{
+"name":"American BBQ Company No Antibiotics Santa Maria Beef Tri Tip",
+"price":"$9.79 / lb"
+},
+{
+"name":"St Louis Ribs",
+"price":"$29.80",
+"quantity":"At $3.49/lb"
+},
+{
+"name":"USDA Prime Beef Loin Tri Tip",
+"price":"$34.14",
+"quantity":"At $5.99/lb"
+},
+{
+"name":"Marinated Beef Skirt Steak",
+"price":"$25.77",
+"quantity":"At $8.59/lb"
+},
+{
+"name":"Veal Leg Cutlets (Scallopini)",
+"price":"$26.98",
+"quantity":"At $13.49/lb"
+},
+{
+"name":"Kirkland Signature Boneless Beef Ribeye Roast",
+"price":"$80.70",
+"quantity":"At $12.19/lb"
+},
+{
+"name":"Open Prairie No Antibiotics Beef Loin New York Steak",
+"price":"$33.52",
+"quantity":"At $10.99/lb"
+},
+{
+"name":"USDA Choice Beef Loin Tenderloin Whole Vacuum Packaged",
+"price":"$13.29 / lb"
+},
+{
+"name":"Beef Ribeye Steak Bnls",
+"price":"$39.26",
+"quantity":"At $13.49/lb"
+},
+{
+"name":"USDA Choice Boneless Short Ribs",
+"price":"$50.94",
+"quantity":"At $8.49/lb"
+},
+{
+"name":"USDA Choice Beef Loin Tri Tip",
+"price":"$39.31",
+"quantity":"At $7.99/lb"
+},
+{
+"name":"USDA Choice Beef Flap Meat",
+"price":"$18.27",
+"quantity":"At $6.09/lb"
+},
+{
+"name":"Kosher Beef Flanken Ribs",
+"price":"$33.73",
+"quantity":"At $13.49/lb"
+},
+{
+"name":"Good Nature No Antibiotics Pork St Louis Spare Ribs",
+"price":"$18.34",
+"quantity":"At $4.69/lb"
+},
+{
+"name":"Beef For Stew Whole Vacuum Packaged",
+"price":"$18.41",
+"quantity":"At $4.09/lb"
+},
+{
+"name":"USDA Choice Beef Tri Tip",
+"price":"$19.11",
+"quantity":"At $4.79/lb"
+},
+{
+"name":"No Antibiotics Pork Loin Boneless Vacuum Packaged",
+"price":"$23.31",
+"quantity":"At $3.49/lb"
+},
+{
+"name":"Beef Loin Top Sirloin Cap Boneless USDA Prime",
+"price":"$22.17",
+"quantity":"At $7.39/lb"
+},
+{
+"name":"Pork Loin Country Style Ribs Boneless",
+"price":"$10.17",
+"quantity":"At $3.09/lb"
+},
+{
+"name":"Beef Chuck Steak Boneless USDA Choice Carne Asada",
+"price":"$57.60",
+"quantity":"At $7.49/lb"
+},
+{
+"name":"Beef Rib Standing Rib Bone In USDA Choice",
+"price":"$47.56",
+"quantity":"At $11.89/lb"
+},
+{
+"name":"Beef Brisket Roast Trimmed USDA Prime",
+"price":"$42.26",
+"quantity":"At $9.39/lb"
+},
+{
+"name":"USDA Choice Boneless Cap Beef Top Sirloin",
+"price":"$18.27",
+"quantity":"At $6.09/lb"
+},
+{
+"name":"Peeled Beef Loin Tenderloin USDA Prime",
+"price":"$142.06",
+"quantity":"At $29.29/lb"
+},
+{
+"name":"Whole Boneless Ribeye, USDA Prime Beef",
+"price":"$202.35",
+"quantity":"At $13.49/lb"
+},
+{
+"name":"No Antibiotics Beef Loin Top Sirloin Steak Cap Off",
+"price":"$27.41",
+"quantity":"At $9.79/lb"
+},
+{
+"name":"Beef Round Tip Round",
+"price":"$23.58",
+"quantity":"At $6.39/lb"
+},
+{
+"name":"USDA Choice Cap off Boneless Top Beef Sirloin Steak",
+"price":"$95.84",
+"quantity":"At $9.79/lb"
+},
+{
+"name":"Whole Beef Rib Eye",
+"price":"$122.28",
+"quantity":"At $10.19/lb"
+},
+{
+"name":"No Antibiotics Beef Ribeye Whole Vacuum Packaged",
+"price":"$54.95",
+"quantity":"At $10.99/lb"
+},
+{
+"name":"Beef Loin Top Loin Whole New York",
+"price":"$116.90",
+"quantity":"At $11.69/lb"
+},
+{
+"name":"Beef Tongue",
+"price":"$24.87",
+"quantity":"At $8.29/lb"
+},
+{
+"name":"USDA Choice Beef Sirloin Tip Knuckle",
+"price":"$32.72",
+"quantity":"At $4.09/lb"
+},
+{
+"name":"Osso Bucco Veal Shank Cross Cuts USDA Choice",
+"price":"$38.47",
+"quantity":"At $10.99/lb"
+},
+{
+"name":"Beef Top Round Roast",
+"price":"$26.33",
+"quantity":"At $6.39/lb"
+},
+{
+"name":"Veal Loin Chops Usda Choice",
+"price":"$63.56",
+"quantity":"At $15.89/lb"
+},
+{
+"name":"No Antibiotics Beef Loin Top Sirloin Cap Steak",
+"price":"$31.43",
+"quantity":"At $9.79/lb"
+},
+{
+"name":"USDA Prime Boneless Beef Chuck Short Ribs",
+"price":"$40.47",
+"quantity":"At $13.49/lb"
+},
+{
+"name":"Good Nature No Antibiotics Pork Loin Backribs Baby Backribs",
+"price":"$14.67",
+"quantity":"At $4.89/lb"
+},
+{
+"name":"Veal Rib Chops USDA Choice",
+"price":"$62.37",
+"quantity":"At $20.79/lb"
+},
+{
+"name":"Veal Leg Cutlets Scallopini USDA Choice",
+"price":"$44.07",
+"quantity":"At $14.69/lb"
+},
+{
+"name":"Beef Shoulder Clod Whole Vacuum Packaged",
+"price":"$14.36",
+"quantity":"At $3.59/lb"
+},
+{
+"name":"No Antibiotics Beef Loin Tenderloin Peeled Extreme",
+"price":"$106.71",
+"quantity":"At $30.49/lb"
+},
+{
+"name":"No Antibiotics Beef Loin Top Sirloin Cap",
+"price":"$21.57",
+"quantity":"At $7.19/lb"
+},
+{
+"name":"No Antibiotics Beef Loin Tri Tip Steak",
+"price":"$55.93",
+"quantity":"At $7.99/lb"
+},
+{
+"name":"No Antibiotics Beef Loin Top Loin Whole",
+"price":"$19.23",
+"quantity":"At $7.69/lb"
+},
+{
+"name":"Kirkland Signature Beef Tenderloin Steak",
+"price":"$107.56",
+"quantity":"At $26.89/lb"
+},
+{
+"name":"St. Louis Pork Brisket Ribs Bone Removed",
+"price":"$33.16",
+"quantity":"At $3.49/lb"
+},
+{
+"name":"Sliced Boneless Pork Belly",
+"price":"$29.47",
+"quantity":"At $4.29/lb"
+},
+{
+"name":"Beef Chuck Shoulder Roast Boneless",
+"price":"$5.45",
+"quantity":"At $5.19/lb"
+},
+{
+"name":"Amylu Caramelized Onion Gouda Burger",
+"price":"$16.79",
+"quantity":"40 oz"
+},
+{
+"name":"Swift Premium Boneless Pork Shoulder Butt",
+"price":"$33.05",
+"quantity":"At $2.39/lb"
+},
+{
+"name":"Sigona's Farmer's Market Maui Onion Almonds",
+"price":"$15.36",
+"quantity":"At $4.39/lb"
+},
+{
+"name":"Kirkland Signature Steak Strips Extra Thick Cut",
+"price":"$12.19",
+"quantity":"12 oz"
+},
+{
+"name":"88% Lean / 12% Fat Fine Ground Beef Tubes",
+"price":"$12.57",
+"quantity":"At $3.59/lb"
+},
+{
+"name":"Marinated Pork Tenderloin Mushroom & Pepper",
+"price":"$15.57",
+"quantity":"At $5.19/lb"
+}
+]
+}

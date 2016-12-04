@@ -1,0 +1,34 @@
+{
+"product_list":[
+{
+"name":"S&W Organic Garbanzo Beans",
+"price":"$8.29",
+"quantity":"8 x 15 oz"
+},
+{
+"name":"S&W Organic Kidney Beans",
+"price":"$9.09",
+"quantity":"8 x 15 oz"
+},
+{
+"name":"Paisley Farm Four Bean Salad Blend",
+"price":"$8.59",
+"quantity":"4 lb"
+},
+{
+"name":"Stagg Steakhouse Reserve Chili W Ith Beans",
+"price":"$18.29",
+"quantity":"8 x 15 oz"
+},
+{
+"name":"Lucio Garofalo Organic Pasta Variety Pack",
+"price":"$10.69",
+"quantity":"6 ct"
+},
+{
+"name":"S&W Organic Black Beans",
+"price":"$8.29",
+"quantity":"8 x 15 oz"
+}
+]
+}

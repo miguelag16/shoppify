@@ -1,0 +1,59 @@
+{
+"product_list":[
+{
+"name":"Kirkland Signature 2% Reduced Fat Milk 1 Gallon Each",
+"price":"$6.49",
+"quantity":"2 x 1 gal"
+},
+{
+"name":"Darigold Homogenized Vitamin D 1 Gal Milk",
+"price":"$6.89",
+"quantity":"2 x 1 gal"
+},
+{
+"name":"Clover Organic Half & Half",
+"price":"$6.99",
+"quantity":"0.5 gal"
+},
+{
+"name":"Darigold Fat Free Vitamin A & D 1 Gal Milk",
+"price":"$5.29",
+"quantity":"2 x 2 pk"
+},
+{
+"name":"Kirkland Signature 2% Lactose Free Milk",
+"price":"$8.89",
+"quantity":"64 oz"
+},
+{
+"name":"Silk Organic Almond Milk",
+"price":"$12.09",
+"quantity":"3 x 64 oz"
+},
+{
+"name":"Silk Organic Unsweetened Vanilla Almond Milk",
+"price":"$13.49",
+"quantity":"3 x 64 fl oz"
+},
+{
+"name":"Horizon Organic Organic Lowfat Milk",
+"price":"$19.59",
+"quantity":"18 x 8 fl oz"
+},
+{
+"name":"Horizon Organic Lowfat Milk, Vanilla",
+"price":"$19.59",
+"quantity":"18 x 8 fl oz"
+},
+{
+"name":"Humboldt Creamery Organic Whole Milk",
+"price":"$11.59",
+"quantity":"2 x 1 gal"
+},
+{
+"name":"Kirkland Signature Organic 2% Chocolate Milk",
+"price":"$18.29",
+"quantity":"24 x 4.25 oz"
+}
+]
+}

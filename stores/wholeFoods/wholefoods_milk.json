@@ -1,0 +1,559 @@
+{
+"product_list":[
+{
+"name":"365 Organic Whole Milk",
+"price":"$6.49",
+"quantity":"128 fl oz"
+},
+{
+"name":"365 Organic Whole Milk",
+"price":"$3.99",
+"quantity":"64 oz"
+},
+{
+"name":"365 Organic Reduced Fat Milk",
+"price":"$6.49",
+"quantity":"1 gal"
+},
+{
+"name":"365 Organics Reduced 2% Fat Milk",
+"price":"$3.99",
+"quantity":"64 fl oz"
+},
+{
+"name":"Organic Valley Half & Half",
+"price":"$2.49",
+"quantity":"1 pt"
+},
+{
+"name":"Clover Organic Milk",
+"price":"$4.49",
+"quantity":".5 gal"
+},
+{
+"name":"Clover Organic Reduced Fat 2% Milk",
+"price":"$4.49",
+"quantity":".5 gal"
+},
+{
+"name":"Clover Milk, Organic, Vitamin D",
+"price":"$7.99",
+"quantity":"1 gal"
+},
+{
+"name":"365 Organic Low Fat 1% Milk",
+"price":"$3.99",
+"quantity":"0.5 gal"
+},
+{
+"name":"365 Organic Lowfat 1% Milk",
+"price":"$6.49",
+"quantity":"1 gal"
+},
+{
+"name":"365 Organic Fat Free Milk",
+"price":"$6.49",
+"quantity":"1 gal"
+},
+{
+"name":"Organic Valley Grassmilk Organic Whole Milk",
+"price":"$5.99",
+"quantity":"0.5 gal"
+},
+{
+"name":"Organic Clover Farms Organic Half & Half",
+"price":"$4.49",
+"quantity":"1 qt"
+},
+{
+"name":"365 Skim Milk",
+"price":"$3.99",
+"quantity":"64 fl oz"
+},
+{
+"name":"Clover Organic Milk Reduced Fat, 2% Milkfat",
+"price":"$7.99",
+"quantity":"1 gal"
+},
+{
+"name":"So Delicious Dairy Free Unsweetened Vanilla Coconut Milk",
+"price":"$3.99",
+"quantity":"64 fl oz"
+},
+{
+"name":"365 Organic Lite Coconut Milk",
+"price":"$2.29",
+"quantity":"13.5 fl oz"
+},
+{
+"name":"Clover Milk, Vitamin D",
+"price":"$2.99",
+"quantity":"1 quart"
+},
+{
+"name":"Clover Organic Reduced Fat 2% Milk",
+"price":"$2.99",
+"quantity":"1 quart"
+},
+{
+"name":"Almond Breeze Original Almondmilk",
+"price":"$3.49",
+"quantity":"64 fl oz"
+},
+{
+"name":"Clover Organic Fat Free Milk",
+"price":"$4.49",
+"quantity":".5 gal"
+},
+{
+"name":"Straus Family Creamery Organic Whole Milk",
+"price":"$3.39",
+"quantity":"1 quart"
+},
+{
+"name":"Organic Valley Grassmilk Organic 2% Reduced Fat Milk",
+"price":"$5.99",
+"quantity":"0.5 gal"
+},
+{
+"name":"New Barn Organic Unsweetened Almond Milk",
+"price":"$5.99",
+"quantity":"28 fl oz"
+},
+{
+"name":"Horizon Organic Chocolate Lowfat Milk",
+"price":"$8.49",
+"quantity":"6 x 8 fl oz"
+},
+{
+"name":"365 Whole Milk",
+"price":"$3.39",
+"quantity":"gal"
+},
+{
+"name":"Horizon Organic Lowfat Chocolate Milk",
+"price":"$16.99",
+"quantity":"12 x 8 fl oz"
+},
+{
+"name":"Organic Valley 32 oz UHT Reduced Fat Chocolate Milk",
+"price":"$3.69",
+"quantity":"32 oz"
+},
+{
+"name":"Clover Low Fat 1% Milk",
+"price":"$2.99",
+"quantity":"1 quart"
+},
+{
+"name":"Clover Organic 1% Low Fat Milk",
+"price":"$7.99",
+"quantity":"1 gal"
+},
+{
+"name":"365 Organic Vanilla Almond Milk",
+"price":"$2.19",
+"quantity":"32 fl oz"
+},
+{
+"name":"Meyenberg Goat Milk",
+"price":"$4.99",
+"quantity":"1 quart"
+},
+{
+"name":"Clover Milk, Reduced Fat, 2% Milkfat",
+"price":"$2.69",
+"quantity":".5 gal"
+},
+{
+"name":"Straus Family Creamery Organic Reduced Fat 2% Milk",
+"price":"$5.19",
+"quantity":"64 fl oz"
+},
+{
+"name":"Meyenberg Goat Milk",
+"price":"$9.49",
+"quantity":"0.5 gal"
+},
+{
+"name":"Horizon Organic Lowfat Organic Milk",
+"price":"$16.99",
+"quantity":"12 x 8 fl oz"
+},
+{
+"name":"Clover Milk, Reduced Fat, 2% Milkfat",
+"price":"$4.99",
+"quantity":"1 gal"
+},
+{
+"name":"Clover Organic Fat Free Milk",
+"price":"$2.99",
+"quantity":"1 quart"
+},
+{
+"name":"Clover Stornetta 1% Milkfat Low Fat Buttermilk",
+"price":"$2.19",
+"quantity":"32 oz"
+},
+{
+"name":"Lifeway ProBugs Organic Whole Milk Kefir Pouches Orange Creamy Crawler - 4 CT",
+"price":"$5.99",
+"quantity":"4.0 fl oz"
+},
+{
+"name":"Horizon Organic Lowfat Milk",
+"price":"$8.49",
+"quantity":"6 x 8 oz"
+},
+{
+"name":"Saint Benoit Creamery Whole Jersey Milk Low Pasteurized",
+"price":"$3.99",
+"quantity":"1 l"
+},
+{
+"name":"365 Reduced Fat Milk 2%",
+"price":"$3.39",
+"quantity":"128 oz"
+},
+{
+"name":"West Soy Unsweetened Vanilla Soy Milk",
+"price":"$2.29",
+"quantity":"32 fl oz"
+},
+{
+"name":"Straus Family Creamery Organic Whole Milk",
+"price":"$9.49",
+"quantity":"1 gal"
+},
+{
+"name":"Clover Whole Milk",
+"price":"$2.69",
+"quantity":".5 gal"
+},
+{
+"name":"Clover Milk, Organic, Fat Free",
+"price":"$7.99",
+"quantity":"1 gal"
+},
+{
+"name":"Clover Whole Milk With Vitamin D",
+"price":"$5.49",
+"quantity":"1 gal"
+},
+{
+"name":"365 1% Lowfat Milk",
+"price":"$3.39",
+"quantity":"gal"
+},
+{
+"name":"Lifeway Whole Plain Kefir Cultured Milk",
+"price":"$5.39",
+"quantity":"32 oz"
+},
+{
+"name":"Pacific Organic Coconut Vanilla Unsweetened Non-Dairy Beverage",
+"price":"$2.99",
+"quantity":"32 oz"
+},
+{
+"name":"Clover Stornetta Low Fat 1% Milk",
+"price":"$2.49",
+"quantity":".5 gal"
+},
+{
+"name":"365 Whole Milk",
+"price":"$2.19",
+"quantity":"0.5 gal"
+},
+{
+"name":"Straus Family Creamery Organic Nonfat Milk",
+"price":"$5.19",
+"quantity":".5 gal"
+},
+{
+"name":"Straus Family Creamery Organic Reduced Fat 2% Milk",
+"price":"$3.39",
+"quantity":"1 qt"
+},
+{
+"name":"Clover Whole Milk",
+"price":"$1.19",
+"quantity":"16 oz"
+},
+{
+"name":"Clover Reduced Fat 2% Milk",
+"price":"$1.79",
+"quantity":"1 quart"
+},
+{
+"name":"365 Fat Free Vitamin A & D Milk",
+"price":"$2.19",
+"quantity":"0.5 gal"
+},
+{
+"name":"Straus Family Creamery Organic Nonfat Milk",
+"price":"$3.19",
+"quantity":"1 quart"
+},
+{
+"name":"Wallaby Organic Whole Milk Plain Kefir",
+"price":"$4.99",
+"quantity":"32 fl oz"
+},
+{
+"name":"Meyenberg Lowfat Goat Milk",
+"price":"$4.99",
+"quantity":"1.0 qt"
+},
+{
+"name":"365 Fat Free Milk",
+"price":"$3.39",
+"quantity":"gal"
+},
+{
+"name":"Organic Valley Organic Egg Nog",
+"price":"$4.99",
+"quantity":"32.12 fl oz"
+},
+{
+"name":"Orgain Organic Nutrition Complete Protein Shake Creamy Chocolate Fudge - 4 PK",
+"price":"$11.99",
+"quantity":"11 fl oz"
+},
+{
+"name":"Cocoa Metro Belgian Chocolate Reduced Fat Milk",
+"price":"$6.99",
+"quantity":"32 fl oz"
+},
+{
+"name":"Straus Family Creamery Organic 1% Milk",
+"price":"$5.19",
+"quantity":".5 gal"
+},
+{
+"name":"Kalona Super Natural Organic 2% Buttermilk",
+"price":"$5.99",
+"quantity":"32 fl oz"
+},
+{
+"name":"Santini Evaporated Milk",
+"price":"$1.69",
+"quantity":"12 oz"
+},
+{
+"name":"Clover Stornetta 1% Low Fat Chocolate Milk",
+"price":"$3.99",
+"quantity":"0.5 gal"
+},
+{
+"name":"365 1% Lowfat Vitamin A & D Milk",
+"price":"$2.19",
+"quantity":"0.5 gal"
+},
+{
+"name":"Clover Lowfat Milk, 1% Milkfat",
+"price":"$4.99",
+"quantity":"1 gal"
+},
+{
+"name":"Organic Valley Organic Whole Milk",
+"price":"$19.99",
+"quantity":"12 x 6.75 fl oz"
+},
+{
+"name":"Three Trees Unsweetened Vanilla Almond Milk",
+"price":"$8.99",
+"quantity":"34 oz"
+},
+{
+"name":"Wallaby Organic Whole Milk Strawberry Kefir",
+"price":"$4.99",
+"quantity":"32 oz"
+},
+{
+"name":"Horizon Organic Strawberry Lowfat Milk",
+"price":"$8.49",
+"quantity":"8 fl oz"
+},
+{
+"name":"Clover Fat Free Milk",
+"price":"$2.49",
+"quantity":"0.5 gal"
+},
+{
+"name":"Straus Family Creamery Organic Eggnog",
+"price":"$6.99",
+"quantity":"1 qt"
+},
+{
+"name":"Clover Stornetta Vitamin A & D Fat Free Milk",
+"price":"$1.79",
+"quantity":"32 oz"
+},
+{
+"name":"Clover Milk, Low Fat, 1% Milkfat",
+"price":"$1.79",
+"quantity":"32 oz"
+},
+{
+"name":"Lifeway Probugs Pretty Plain Whole Milk Kefir Organic",
+"price":"$5.99",
+"quantity":"4 x 4 fl oz"
+},
+{
+"name":"Green Valley Organics Whole Milk Plain Kefir",
+"price":"$5.99",
+"quantity":"32 oz"
+},
+{
+"name":"Clover Vitamin D Full Fat Milk",
+"price":"$1.99",
+"quantity":"1 quart"
+},
+{
+"name":"Horizon Organic Organic Lowfat Milk",
+"price":"$1.79",
+"quantity":"8 oz"
+},
+{
+"name":"Clover Fat Free Milk",
+"price":"$4.99",
+"quantity":"1 gal"
+},
+{
+"name":"Horizon Organic Chocolate Lowfat Milk",
+"price":"$1.79",
+"quantity":"8 oz"
+},
+{
+"name":"Clover 2% Reduced Fat Milk",
+"price":"$1.29",
+"quantity":"16 oz"
+},
+{
+"name":"Horizon Organic Vanilla Lowfat Organic Milk",
+"price":"$16.99",
+"quantity":"12 x 8 fl oz"
+},
+{
+"name":"Super Rebbl Herbs Turmeric Golden Milk Elixir",
+"price":"$3.99",
+"quantity":"12 fl oz"
+},
+{
+"name":"Califia Farms Almond Milk Nog",
+"price":"$4.99",
+"quantity":"48 fl oz"
+},
+{
+"name":"Straus Family Creamery Organic Low Fat Milk",
+"price":"$3.39",
+"quantity":"32 fl oz"
+},
+{
+"name":"Silly Cow Farms All Natural Chocolate-Chocolate Hot Chocolate",
+"price":"$7.39",
+"quantity":"16.0 oz"
+},
+{
+"name":"Clover Organic Egg Nog",
+"price":"$5.99",
+"quantity":"1 qt"
+},
+{
+"name":"Clover Stornetta Egg Nog",
+"price":"$6.99",
+"quantity":"0.5 gal"
+},
+{
+"name":"Clover Egg Nog",
+"price":"$4.49",
+"quantity":"1 qt"
+},
+{
+"name":"365 Reduced Fat 2% Milk",
+"price":"$2.19",
+"quantity":"0.5 gal"
+},
+{
+"name":"Humboldt Creamery Organic Whole Chocolate Milk",
+"price":"$2.99",
+"quantity":"33 fl oz"
+},
+{
+"name":"Clover Stornetta 1% Lowfat Milk",
+"price":"$1.19",
+"quantity":"1 pt"
+},
+{
+"name":"Organic Valley Organic Whole Milk",
+"price":"$1.69",
+"quantity":"6.75 fl oz"
+},
+{
+"name":"Horizon Organic Strawberry Lowfat Milk",
+"price":"$1.79",
+"quantity":"8 oz"
+},
+{
+"name":"Clover Stornetta Fat Free Milk",
+"price":"$1.19",
+"quantity":"1 pt"
+},
+{
+"name":"Clover 1% Lowfat Chocolate Milk",
+"price":"$1.39",
+"quantity":"16 oz"
+},
+{
+"name":"Clover Stornetta Vitamin D Milk",
+"price":"$0.59",
+"quantity":"8 oz"
+},
+{
+"name":"Horizon Organic Strawberry Lowfat Organic Milk",
+"price":"$16.99",
+"quantity":"12 x 8 fl oz"
+},
+{
+"name":"Horizon Organic Lowfat Milk, Chocolate",
+"price":"$1.79",
+"quantity":"18 x 8 fl oz"
+},
+{
+"name":"Cocoa Metro Belgian Dark Chocolate Milk",
+"price":"$3.69",
+"quantity":"12 each"
+},
+{
+"name":"Cocoa Metro Organic Chocolate Milk",
+"price":"$4.49",
+"quantity":"12 fl oz"
+},
+{
+"name":"365 Reduced Fat 2% Milk",
+"price":"$2.19",
+"quantity":"half gal"
+},
+{
+"name":"Clover Organic 1% Low Fat Milk",
+"price":"$4.49",
+"quantity":".5 gal"
+},
+{
+"name":"In House Made Steamed Milk",
+"price":"$2.35",
+"quantity":"12 fl oz"
+},
+{
+"name":"Lactaid 100% Lactose Free Reduced Fat Milk",
+"price":"$2.69",
+"quantity":"32 fl oz"
+},
+{
+"name":"Royal Hawaiian Orchards Macadamia Milk Original",
+"price":"$3.99",
+"quantity":"32.0 fl oz"
+}
+]
+}

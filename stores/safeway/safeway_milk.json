@@ -1,0 +1,493 @@
+{
+"product_list":[
+{
+"name":"Lucerne Whole Milk",
+"price":"$6.09",
+"quantity":"1 gal"
+},
+{
+"name":"Lucerne Milk Reduced Fat 2%",
+"price":"$6.09",
+"quantity":"1 gal"
+},
+{
+"name":"Lucerne Milk Reduced Fat 2%",
+"price":"$3.19",
+"quantity":"half gal"
+},
+{
+"name":"Clover Organic Reduced Fat 2% Milk",
+"price":"$6.09",
+"quantity":".5 gal"
+},
+{
+"name":"Lucerne Reduced Fat 2% Milk",
+"price":"$2.49",
+"quantity":"1 qt"
+},
+{
+"name":"Lucerne Milk Whole",
+"price":"$3.79",
+"quantity":".5 gal"
+},
+{
+"name":"Lucerne Half And Half Ultra Pasteurized",
+"price":"$6.09",
+"quantity":"half gallon"
+},
+{
+"name":"Horizon Organic 2% Reduced Fat Milk",
+"price":"$7.39",
+"quantity":"64 fl oz"
+},
+{
+"name":"Lucerne Fat Free Milk",
+"price":"$6.09",
+"quantity":"1 gallon"
+},
+{
+"name":"Horizon Organic Vitamin D Whole Milk",
+"price":"$6.09",
+"quantity":"0.5 gal"
+},
+{
+"name":"Lucerne Fat Free Milk",
+"price":"$6.09",
+"quantity":".5 gal"
+},
+{
+"name":"Lucerne Lowfat Milk 1%",
+"price":"$6.09",
+"quantity":"1 gal"
+},
+{
+"name":"Lucerne Dairy Farms Fat Free Milk",
+"price":"$3.69",
+"quantity":"1 qt"
+},
+{
+"name":"Horizon Organic Organic 1% Low Fat Milk",
+"price":"$7.39",
+"quantity":"64 fl oz"
+},
+{
+"name":"O Organics Organic Milk Whole",
+"price":"$4.89",
+"quantity":"64 oz"
+},
+{
+"name":"Horizon Organic Fat-Free Milk",
+"price":"$7.39",
+"quantity":"64 fl oz"
+},
+{
+"name":"Horizon Organic 2% Reduced Fat DHA Omega-3 Organic Milk",
+"price":"$7.39",
+"quantity":"0.5 gal"
+},
+{
+"name":"Lucerne Milk Low Fat 1%",
+"price":"$2.49",
+"quantity":"1 qt"
+},
+{
+"name":"Lucerne Vitamin D Milk",
+"price":"$2.49",
+"quantity":"1 qt"
+},
+{
+"name":"O Organics Organic 1% Lowfat Milk",
+"price":"$5.29",
+"quantity":".5 gal"
+},
+{
+"name":"Clover Stornetta Low Fat 1% Milk",
+"price":"$4.29",
+"quantity":".5 gal"
+},
+{
+"name":"O Organics Organic Fat Free Milk",
+"price":"$4.89",
+"quantity":".5 gal"
+},
+{
+"name":"Horizon Organic 2% Reduced Fat Organic Milk",
+"price":"$10.99",
+"quantity":"1 gal"
+},
+{
+"name":"Horizon Organic Lactose Free 2% Reduced Fat Organic Milk",
+"price":"$7.39",
+"quantity":"64 fl oz"
+},
+{
+"name":"Horizon Organic DHA Omega-3 Chocolate Lowfat 1% Milk",
+"price":"$7.39",
+"quantity":".5 gal"
+},
+{
+"name":"Clover Milk, Organic, Fat Free",
+"price":"$9.79",
+"quantity":"1 gal"
+},
+{
+"name":"Clover Milk, Reduced Fat, 2% Milkfat",
+"price":"$4.59",
+"quantity":".5 gal"
+},
+{
+"name":"So Delicious Dairy Free Unsweetened Vanilla Coconut Milk",
+"price":"$4.89",
+"quantity":"64 fl oz"
+},
+{
+"name":"Clover Lowfat Milk, 1% Milkfat",
+"price":"$7.39",
+"quantity":"1 gal"
+},
+{
+"name":"Clover Milk, Fat Free",
+"price":"$3.29",
+"quantity":".5 gal"
+},
+{
+"name":"O Organics Fat Free Milk",
+"price":"$8.59",
+"quantity":"1 gal"
+},
+{
+"name":"Lucerne Lactose Free Reduced Fat 2% Milk",
+"price":"$6.09",
+"quantity":".5 gal"
+},
+{
+"name":"Clover Whole Milk",
+"price":"$4.29",
+"quantity":".5 gal"
+},
+{
+"name":"Lucerne Reduced Fat Milk 2%",
+"price":"$3.69",
+"quantity":"32 oz"
+},
+{
+"name":"Clover Milk, Reduced Fat, 2% Milkfat",
+"price":"$7.39",
+"quantity":"1 gal"
+},
+{
+"name":"Lucerne Reduced Fat Chocolate Milk",
+"price":"$5.59",
+"quantity":"1 gal"
+},
+{
+"name":"Horizon Organic Organic Lowfat Milk",
+"price":"$1.59",
+"quantity":"8 oz"
+},
+{
+"name":"Alta Dena Buttermilk, Cultured Low Fat",
+"price":"$3.69",
+"quantity":"1 qt"
+},
+{
+"name":"Lucerne Fat Free Chocolate Milk",
+"price":"$4.39",
+"quantity":"1.89l"
+},
+{
+"name":"Horizon Organic Vanilla Lowfat Organic Milk",
+"price":"$17.09",
+"quantity":"12 x 8 fl oz"
+},
+{
+"name":"Lucerne Lactose and Fat Free Milk",
+"price":"$4.89",
+"quantity":".5 gal"
+},
+{
+"name":"Lucerne Milk Lactose Free Reduced Fat 2% Calcium Enriched",
+"price":"$5.39",
+"quantity":"half gal"
+},
+{
+"name":"Clover Fat Free Milk",
+"price":"$6.09",
+"quantity":"0.5 gal"
+},
+{
+"name":"Lucerne Chocolate Reduced Fat 2% Milk",
+"price":"$6.29",
+"quantity":"gallon"
+},
+{
+"name":"Lucerne 100% Lactose Free Ultra-Pasteurized Milk With Vitamin D",
+"price":"$4.79",
+"quantity":"0.5 gal"
+},
+{
+"name":"Horizon Organic Lactose-Free 0% Organic Fat Free Milk",
+"price":"$7.39",
+"quantity":"64 fl oz"
+},
+{
+"name":"Clover Organic 1% Low Fat Milk",
+"price":"$9.79",
+"quantity":"1 gal"
+},
+{
+"name":"Darigold Homogenized Vitamin D 1 Gal Milk",
+"price":"$5.19",
+"quantity":"2 x 1 gal"
+},
+{
+"name":"Lucerne Milk Lactose Free Fat Free",
+"price":"$3.89",
+"quantity":"quart"
+},
+{
+"name":"Clover Organic Whole Milk",
+"price":"$6.09",
+"quantity":"64 oz"
+},
+{
+"name":"Silk Very Vanilla Soymilk",
+"price":"$4.69",
+"quantity":"0.5 gal"
+},
+{
+"name":"Clover Stornetta 1% Low Fat Chocolate Milk",
+"price":"$4.89",
+"quantity":"0.5 gal"
+},
+{
+"name":"Horizon Organic Strawberry Lowfat Organic Milk",
+"price":"$15.89",
+"quantity":"12 x 8 fl oz"
+},
+{
+"name":"Horizon Organic DHA Omega-3 0% Organic Fat Free Milk",
+"price":"$7.39",
+"quantity":"0.5 gal"
+},
+{
+"name":"Lucerne Whole Milk",
+"price":"$6.09",
+"quantity":"1 gal"
+},
+{
+"name":"Lucerne 1.5% Reduced Fat Cultured Buttermilk with Vitamins A & D",
+"price":"$3.69",
+"quantity":"half gallon"
+},
+{
+"name":"Silk Unsweetened Cashewmilk",
+"price":"$4.89",
+"quantity":"64 fl oz"
+},
+{
+"name":"Horizon Organic Vanilla Lowfat Milk",
+"price":"$1.59",
+"quantity":"8 fl oz"
+},
+{
+"name":"Dairy Pure Dairy Pure Milk Fat Free",
+"price":"$3.69",
+"quantity":".5 gal"
+},
+{
+"name":"Fairlife Whole Milk",
+"price":"$6.09",
+"quantity":"52 fl oz"
+},
+{
+"name":"Clover Organic Farms Milk, Reduced Fat 1%, Organic, Carton",
+"price":"$6.09",
+"quantity":"0.5 gl"
+},
+{
+"name":"Lucerne Milk",
+"price":"$1.29",
+"quantity":"12 fl oz"
+},
+{
+"name":"Horizon Organic Strawberry Lowfat Milk",
+"price":"$1.59",
+"quantity":"8 oz"
+},
+{
+"name":"Lucerne Whole Milk",
+"price":"$6.09",
+"quantity":"gallon"
+},
+{
+"name":"Lucerne Ultra-Pasteurized 1% Lowfat Milk With Vitamins A & D",
+"price":"$5.29",
+"quantity":"0.5 gal"
+},
+{
+"name":"Darigold Fat Free Vitamin A & D 1 Gal Milk",
+"price":"$5.79",
+"quantity":"2 x 2 pk"
+},
+{
+"name":"Clover Organic Farms Organic 2% Reduced Fat Milk",
+"price":"$6.09",
+"quantity":"64 fl oz"
+},
+{
+"name":"O Organics Organic Fat Free Milk",
+"price":"$4.89",
+"quantity":"64 fl oz"
+},
+{
+"name":"Fairlife 2% Chocolate Milk",
+"price":"$2.49",
+"quantity":"11.5 fl oz"
+},
+{
+"name":"Wild Harvest Vanilla Soy Milk",
+"price":"$4.09",
+"quantity":"64 oz"
+},
+{
+"name":"Nestle Nesquik Strawberry Flavored Low Fat Milk 1%",
+"price":"$2.49",
+"quantity":"14 fl oz"
+},
+{
+"name":"International Delight Mocha Iced Coffee",
+"price":"$5.89",
+"quantity":"64 fl oz"
+},
+{
+"name":"O Organics Low Fat Milk With Vitamins A & D",
+"price":"$1.29",
+"quantity":"8 fl oz"
+},
+{
+"name":"Garelick Farms 1% Low Fat Milk",
+"price":"$6.09",
+"quantity":"128 oz"
+},
+{
+"name":"Lucerne Chocolate Protein Plus",
+"price":"$1.59",
+"quantity":"12 fl oz"
+},
+{
+"name":"Ydps Yoo Hoo Chocolate Drink",
+"price":"$5.49",
+"quantity":"10 x 6.5 fl oz"
+},
+{
+"name":"Horizon Organic Lactose-Free Vitamin D Organic Milk",
+"price":"$7.39",
+"quantity":"0.5 gal"
+},
+{
+"name":"Lucerne 2% Milk",
+"price":"$1.29",
+"quantity":"12 oz"
+},
+{
+"name":"Lucerne Protein Plus Strawberry",
+"price":"$1.29",
+"quantity":"12 fl oz"
+},
+{
+"name":"Lucerne Milk Low Fat 1% Mocha Cappuccino",
+"price":"$1.59",
+"quantity":"pint"
+},
+{
+"name":"Clover Fat Free Milk",
+"price":"$7.39",
+"quantity":"1 gal"
+},
+{
+"name":"Lucerne Chocolate Lowfat Milk",
+"price":"$1.49",
+"quantity":"12 fl oz"
+},
+{
+"name":"Silk Original Cashewmilk",
+"price":"$3.69",
+"quantity":"64 fl oz"
+},
+{
+"name":"O Organics Organic Vanilla Low Fat Milk",
+"price":"$1.29",
+"quantity":"8 fl oz"
+},
+{
+"name":"O Organics Chocolate Lowfat Milk",
+"price":"$13.49",
+"quantity":"8 fl oz"
+},
+{
+"name":"International Delight Mocha Light Iced Coffee",
+"price":"$5.89",
+"quantity":"64 oz"
+},
+{
+"name":"Lucerne Buttermilk Reduced Fat 1 1/2%",
+"price":"$3.79",
+"quantity":"half gal"
+},
+{
+"name":"Pantry Essentials Low Fat Milk",
+"price":"$4.89",
+"quantity":"3.87 l"
+},
+{
+"name":"Organic Low Fat Milk",
+"price":"$14.69",
+"quantity":"12-8 oz"
+},
+{
+"name":"Lucerne Egg Nog",
+"price":"$4.89"
+},
+{
+"name":"Lucerne Vanilla Protein Plus",
+"price":"$1.59",
+"quantity":"12 fl oz"
+},
+{
+"name":"Lucerne Chocolate Milk Reduced Fat 2%",
+"price":"$4.09",
+"quantity":"0.5 gal"
+},
+{
+"name":"Lucerne Milk Low Fat 1%",
+"price":"$4.89",
+"quantity":"0.5 gal"
+},
+{
+"name":"Clover Organic Farms Organic Fat Free Vitamins A&D Milk",
+"price":"$6.09",
+"quantity":"half gallon"
+},
+{
+"name":"Lucerne Milk Reduced Fat 2%",
+"price":"$2.49",
+"quantity":"1 qt"
+},
+{
+"name":"O Organics Low Fat Chocolate Milk",
+"price":"$14.69",
+"quantity":"12-8fl oz"
+},
+{
+"name":"O Organics Low Fat Chocolate Milk",
+"price":"$1.29",
+"quantity":"8 fl oz"
+},
+{
+"name":"Lucerne Protein+ Light Vanilla Milk",
+"price":"$1.59",
+"quantity":"12 fl oz"
+}
+]
+}
