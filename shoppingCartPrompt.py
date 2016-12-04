@@ -1,6 +1,6 @@
 import json
 
-CATEGORIES = ['Produce', 'Dairy', 'Snacks', 'Dairy', 'Eggs', 'Beverages', 'Household', 'Frozen', 'Deli', 'Pantry', 'Meat & Seafood', 'Bakery', 'Canned Goods', 'Dry Goods & Pasta', 'International', 'Breakfast']
+CATEGORIES = ['Produce', 'Snacks', 'Dairy', 'Eggs', 'Beverages', 'Household', 'Frozen', 'Deli', 'Pantry', 'Meat & Seafood', 'Bakery', 'Canned Goods', 'Dry Goods & Pasta', 'International', 'Breakfast']
 
 # Takes note of what categories have been selected of the user and returns a len(CATEGORIES) array with this info.
 def selectCategories():
