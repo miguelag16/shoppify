@@ -3,9 +3,10 @@ import util, numpy, json, collections, re, shoppingCartPrompt
 translateCategory = {'spices&Seasonings':'Pantry', 'eggs':'Eggs', 'hispanicFood':'International', 'dryGoods&Pasta':'Dry Goods & Pasta', 'juice&Nectars':'Beverages', 'fruit':'Produce', 'oils&Vinegars':'Pantry', 'milk':'Dairy', 'hotDogsBacon&Sausage':'Meat & Seafood', 'packagedMeat':'Deli', 'cannedMeals&Beans': 'Canned Goods', 'tortillas&flatBread':'Bakery'}
 
 class SegmentationProblem(util.SearchProblem):
-    def __init__(self, shoppingList, products, maxCost):
+    def __init__(self, shoppingList, products, bestStores, maxCost):
         self.shoppingList = shoppingList
         self.products = products
+        self.bestStores = bestStores
         self.maxCost = maxCost
     
     def startState(self):
@@ -17,21 +18,18 @@ class SegmentationProblem(util.SearchProblem):
     def succAndCost(self, state):
         results = []
         optionsList = []
-        for store in products.keys():
+        for store in bestStores:
             for category in products[store]:
                 if translateCategory[category] == state[0][0]:
                     for item in products[store][category]:
-                        print item
                         if state[0][1] in item['name'].lower():
                             optionsList.append((item, store))
         for option in optionsList:
-            heuristicCost = ranking[state[0][0]][option[1]]
             price = re.findall("\d+\.\d+", option[0]['price'])[0]
-            weight = float(price) / self.maxCost
-            results.append((option, state[1:], float(price) + heuristicCost*weight))
+            results.append((option, state[1:], float(price)))
         return results
 
-def shopify(shoppingList, products):
+def shopify(shoppingList, products, bestStores):
     if len(shoppingList) == 0:
         return []
     
@@ -46,13 +44,12 @@ def shopify(shoppingList, products):
             maxCost = totalCost / float(storeCount)
 
     ucs = util.UniformCostSearch(verbose=3)
-    print type(shoppingList), type(products)
-    ucs.solve(SegmentationProblem(shoppingList, products, maxCost))
-
+    ucs.solve(SegmentationProblem(shoppingList, products, bestStores, maxCost))
+    
     return ucs.actions
 
-#products is coded by Miguel
-#ranking is dict of category:(dict of store:ranking). ranking[category][store] = number 1-n
+#Builds dictionaries of average costs and rankings among stores, both by category.
+#ranking is dict of category:(dict of store:ranking). ranking[category][store] = number between 1, number of stores inclusive
 #avgCosts is dict of category:list of tuples (store, average cost in that category)
 
 f = open('allStores.json', 'r')
@@ -76,4 +73,25 @@ for category in avgCosts.keys():
 
 shoppingList = shoppingCartPrompt.pullRequests()
 
-print shopify(tuple(shoppingList), products)
+#Goes through each store and calculates heuristic value based on average cost of each item's category at that store. Takes two cheapest stores according to heuristic and limits UCS to those stores
+
+storeHeuristic = collections.defaultdict(float)
+completeStores = set()
+bestStores = set()
+for store in products.keys():
+    itemsAdded = 0
+    for item in shoppingList:
+        for pair in avgCosts[item[0]]:
+            if pair[0] == store:
+                storeHeuristic[store] += pair[1] + ranking[item[0]][store]
+                itemsAdded += 1
+    if itemsAdded == len(shoppingList):
+        completeStores.add(store)
+for store in storeHeuristic.keys():
+    if store not in completeStores:
+        del storeHeuristic[store]
+bestStores.add(min(storeHeuristic))
+del storeHeuristic[min(storeHeuristic)]
+bestStores.add(min(storeHeuristic))
+
+print shopify(tuple(shoppingList), products, bestStores)
