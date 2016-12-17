@@ -1,0 +1,175 @@
+{
+	
+	"Holiday Favorites": [
+
+		"Holiday Desserts", 
+		"Foodie Gifts",
+		"Holiday Brunch",
+		"Holiday Baking", 
+		"Cooking Essentials",
+		"Veggie Faves",
+		"Turkey & Holiday Meats"
+	],
+
+	"Produce" : [
+
+		"Fresh Vegetables", 
+		"Fresh Fruits",
+		"Packaged Vegetables & Fruits",
+		"Fresh Herbs", 
+		"Packaged Produce"
+	], 
+
+	"Dairy & Eggs" : [
+
+		"Yogurt", 
+		"Packaged Cheese", 
+		"Milk",
+		"Eggs",
+		"Cream",
+		"Butter", 
+		"Other Creams & Cheeses", 
+		"Soy & Lactose-Free",
+		"Refrigerated Pudding & Desserts"
+	], 
+
+	"Snacks" : [
+
+		"Candy & Chocolate", 
+		"Chips & Pretzels",
+		"Cookies & Cakes",
+		"Crackers",
+		"Energy & Granola Bars",
+		"Ice Cream Toppings", 
+		"Nuts, Seeds & Dried Fruit", 
+		"Popcorn & Jerky",
+		"Trail Mix & Snack Mix",
+		"Mint & Gum",
+		"Fruit & Vegetable Snacks"
+
+	],
+
+	"Frozen" : [
+
+		"Frozen Produce",
+		"Frozen Breakfast",
+		"Frozen Appetizers & Sides",
+		"Frozen Meals",
+		"Frozen Meat & Seafood",
+		"Frozen Pizza",
+		"Frozen Breads & Doughs",
+		"Frozen Vegan & Vegetarian",
+		"Frozen Dessert",
+		"Ice Cream & Ice",
+		"Frozen Juice"
+	], 
+
+	"Beverages" : [
+
+		"Water, Seltzer & Sparkling Water",
+		"Refrigerated",
+		"Coffee",
+		"Tea",
+		"Juice & Nectars", 
+		"Energy & Sports Drinks",
+		"Soft Drinks",
+		"Cocoa & Drink Mixes"
+	],
+
+	"Deli" : [
+
+		"Newly Added", 
+		"Specialty Cheeses",
+		"Lunch Meat", 
+		"Prepared Meals",
+		"Prepared Soups & Salads", 
+		"Fresh Dips & Tapenades", 
+		"Tofu & Meat Alternatives"
+	],
+
+	"Pantry" : [
+
+		"Condiments", 
+		"Honeys, Syrups & Nectars", 
+		"Spreads",
+		"Spices & Seasonings", 
+		"Salad Dressing & Toppings", 
+		"Oils & Vinegars", 
+		"Pickled Goods & Olives", 
+		"Marinades & Meat Preparation", 
+		"Preserved Dips & Spreads", 
+		"Doughs, Gelatins & Bake Mixes", 
+		"Baking Ingredients", 
+		"Baking Supplies & Decor" 
+	], 
+
+	"Meat & Seafood" : [
+
+		"Meat Counter", 
+		"Poultry Counter", 
+		"Seafood Counter", 
+		"Packaged Meat", 
+		"Packaged Poultry", 
+		"Packaged Seafood", 
+		"Hot Dogs, Bacon & Sausage"
+	], 
+
+	"Bakery" : [
+
+		"Bread", 
+		"Tortillas & Flat Bread", 
+		"Buns & Rolls", 
+		"Breakfast Bakery", 
+		"Bakery Desserts"
+	], 
+
+	"Canned Goods" : [
+
+		"Canned Fruit & Applesauce", 
+		"Canned & Jarred Vegetables", 
+		"Canned Meals & Beans",
+		"Canned Meat & Seafood", 
+		"Soup, Broth & Bullion"
+	],
+
+	"Bulk" : [
+
+		"Bulk Grains, Rice & Dried Goods", 
+		"Bulk Spreads Butter, Honey, Syrup", 
+		"Bulk Dried Fruits & Vegetables", 
+		"Bulk Trail Mix & Snack Mix", 
+		"Bulk Tea & Coffee", 
+		"Bulk Flours & Powders", 
+		"Bulk Nuts & Seeds", 
+		"Other Bulk", 
+		"Bulk Candies & Chocolates", 
+		"Bulk Spices & Seasonings"
+	], 
+
+	"Dry Goods & Pasta" : [
+
+		"Dry Pasta", 
+		"Fresh Pasta", 
+		"Pasta Sauce", 
+		"Instant Foods", 
+		"Grains, Rice & Dried Goods"
+	], 
+
+	"International" : [
+
+		"Asian Foods",
+		"Latino Foods", 
+		"Indian Foods", 
+		"Kosher Foods", 
+		"More International Foods"
+	],
+
+	"Breakfast" : [
+
+		"Cereal", 
+		"Hot Cereal & Pancake Mixes", 
+		"Granola", 
+		"Breakfast Bars & Pastries"
+	] 
+
+}

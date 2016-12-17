@@ -1,58 +1,57 @@
 import json
 
-CATEGORIES = ['Produce', 'Snacks', 'Dairy', 'Eggs', 'Beverages', 'Household', 'Frozen', 'Deli', 'Pantry', 'Meat & Seafood', 'Bakery', 'Canned Goods', 'Dry Goods & Pasta', 'International', 'Breakfast']
+# CATEGORIES = ['Produce', 'Snacks', 'Dairy & Eggs', 'Beverages', 'Household', 'Frozen', 'Deli',\
+	 # 'Pantry', 'Meat & Seafood', 'Bakery', 'Canned Goods', 'Dry Goods & Pasta', 'International', 'Breakfast']
 
-# Takes note of what categories have been selected of the user and returns a len(CATEGORIES) array with this info.
-def selectCategories():
-    print "Input 1 to select food category, 0 to skip category."
-    
-    
-    selections = []
-    for category in CATEGORIES:
-        response = int(raw_input(category + "? "))
-                
-        while(response < 0 or response > 1):
-            print "Please try again. Input 1 to select food category, 0 to skip category."
-            response = int(raw_input(category + "? "))
-        
-        selections.append(response)
-    
-    return selections
-
+DEPARTMENTS = ['Holiday Favorites', 'Produce', 'Dairy & Eggs', 'Snacks', 'Frozen', 'Beverages', 'Deli', 'Pantry',\
+	 'Meat & Seafood', 'Bakery', 'Canned Goods', 'Bulk', 'Dry Goods & Pasta', 'International', 'Breakfast']
 
 class Request:
-    def __init__(self, category, specificItem):
-        self.category = category
-        self.specificItem = specificItem
+	def __init__(self, department, genericItemName, specificDescriptors):
+		self.department = department
+		self.genericItemName = genericItemName
+		self.specificDescriptors = specificDescriptors
 
-def returnRequests(selections):
-    print "\n Add generic items to the shopping cart for each category (e.g. ham, milk, eggs, etc.).\n"
-        
-    requests = []
-    for i, category in enumerate(CATEGORIES):
-        if (selections[i] == 1):
-            print category
-                    
-            specificItem = None
-            while(True):
-                specificItem = str(raw_input("    Specific item: "))
-                                
-                if(specificItem == ''):
-                    break
-                else:
-                    requests.append(Request(category, specificItem))
-                    
-            print '\n'
-    
-    return requests
+def buildGroceryList():
+	print "The following departments are available:"
+	for department in DEPARTMENTS:
+		print "- " + department
 
-def pullRequests():	
-    selections = selectCategories()
-        
-    requests = returnRequests(selections)
-        
-    polishedRequests = []
-    for request in requests:
-        polishedRequests.append((request.category, request.specificItem))
-        
-    return polishedRequests
+
+	print "\nAdd generic items to the shopping cart for each department (e.g. ham, milk, eggs, etc.). Leave empty and return to skip. \n"
+
+	requests = []
+	for i, department in enumerate(DEPARTMENTS):
+		print department
+
+		specificDescriptors = []
+		while(True):
+			genericItemName = str(raw_input("	Generic item name: "))
+			if(genericItemName == ''):
+				break
+ 
+ 			while(True):
+ 				descriptor = str(raw_input("	Specific descriptor: "))
+ 				if(descriptor == ''):
+ 					break
+ 				specificDescriptors.append(descriptor)
+			
+			requests.append(Request(department, genericItemName, specificDescriptors))
+
+			print '\n'
+
+		print '\n'
+
+	budget = float(raw_input("Overall budget: $"))
+
+	return (requests, budget)
+				
+	# polishedRequests = []
+	# for request in requests:
+	# 	print (request.department, request.genericItemName, request.specificDescriptors)
+		
+
+	# 	# polishedRequests.append((request.category, request.specificItem))
+
+	# return polishedRequests	
+
